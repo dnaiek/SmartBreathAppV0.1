@@ -1,4 +1,4 @@
-# SmartBreath — Evaluación 2 (Kotlin / Android, dos teléfonos)
+# SmartBreath —(Kotlin / Android, dos teléfonos)
 
 ## Qué demuestra esta versión
 
@@ -110,6 +110,3 @@ Se incluyen medidas preliminares como permisos de red explícitos, no transmitir
 - [ ] Al reiniciar la conexión, el controlador puede volver a conectarse.
 - [ ] Se capturan evidencias reales de ambos teléfonos y de la conexión.
 
-## Entrega
-
-La guía oficial indica subir a AAI un archivo de texto con el enlace al repositorio GitHub que contiene el código. Sube primero este proyecto a tu propio repositorio, verifica que el enlace sea accesible para el docente y reemplaza el marcador en `ENTREGA_AAI.txt`. Adjunta el informe técnico y capturas si la plataforma lo permite.
